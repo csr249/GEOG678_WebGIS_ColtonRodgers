@@ -1,4 +1,3 @@
-
 # Lab 7 – ArcGIS StoryMaps
 
 **Course:** GEOG 678 – Web GIS  
