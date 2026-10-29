@@ -1,4 +1,3 @@
-
 # Lab 6 – Advanced JavaScript Mapping
 
 **Course:** GEOG 678 – Web GIS  
