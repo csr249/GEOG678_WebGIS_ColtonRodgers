@@ -1,4 +1,3 @@
-
 # Lab 4 – JavaScript/JSON Programming
 
 **Course:** GEOG 678 – Web GIS  
