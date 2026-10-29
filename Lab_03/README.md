@@ -1,4 +1,3 @@
-
 # Lab 3 – Build Your Web Resume
 
 **Course:** GEOG 678 – Web GIS  
