@@ -1,4 +1,3 @@
-
 # Lab 5 – Basic JavaScript Mapping with Leaflet
 
 **Course:** GEOG 678 – Web GIS  
