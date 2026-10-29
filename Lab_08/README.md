@@ -1,4 +1,3 @@
-
 # Lab 8 – Interactive Charts
 
 **Course:** GEOG 678 – Web GIS  
