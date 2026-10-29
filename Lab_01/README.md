@@ -19,8 +19,6 @@ The purpose of this lab was to become familiar with GitHub as a platform for org
 
 **Repository Name:** GEOG678_WebGIS_ColtonRodgers
 
-**GitHub Username:** csr249
-
 **Repository URL:** [View My GitHub Repository](https://github.com/csr249/GEOG678_WebGIS_ColtonRodgers)
 
 ## Repository Organization
@@ -50,7 +48,7 @@ The repository is organized into eight laboratory folders, each containing a REA
 ## Deliverables
 
 - Public GitHub repository
-- Organized laboratory folders
+- Organized laboratory folders (1-8)
 - Individual README.md files
 - Repository URL for Canvas submission
 
