@@ -1,4 +1,3 @@
-
 # Lab 2 – ArcGIS Online Web Mapping
 
 **Course:** GEOG 678 – Web GIS  
