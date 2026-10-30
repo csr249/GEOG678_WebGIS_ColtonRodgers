@@ -17,14 +17,17 @@ The purpose of this lab is to gain experience using ArcGIS Online to create, con
 
 **Application Name:** My First Web App – Colton Rodgers
 
-**Study Area:** 
+**Study Area:** Alabama
 
-**ArcGIS Online Web Map:** 
+**ArcGIS Online Web Map Application:** [View My First Web App](https://tamu.maps.arcgis.com/apps/instant/basic/index.html?appid=4e553b0b338145d3bdc75c175c0cf392)
 
-## Mobile GIS Screenshot
+**ArcGIS Web Map:** [View Web Map Used for Application Development](https://tamu.maps.arcgis.com/apps/mapviewer/index.html?webmap=067f9b959a9a4ddf9938cd9baaedefdd)
 
-The screenshot below shows the published web map opened in the ArcGIS mobile application.
+## ArcGIS Collector/Field Maps Screenshot
 
+The screenshot below shows the published Parks web map opened in the ArcGIS mobile application Collector.
+
+![ArcGIS Mobile Data Collection Map](<img width="148" height="320" alt="IMG_1860" src="https://github.com/user-attachments/assets/5da0f54e-feeb-4655-8e95-6e40bff5b407" />)
 
 
 ## Lab Activities
