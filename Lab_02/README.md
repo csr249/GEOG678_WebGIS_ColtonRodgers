@@ -27,7 +27,7 @@ The purpose of this lab is to gain experience using ArcGIS Online to create, con
 
 The screenshot below shows the published Parks web map opened in the ArcGIS mobile application Collector.
 
-![ArcGIS Mobile Data Collection Map](<img width="148" height="320" alt="IMG_1860" src="https://github.com/user-attachments/assets/5da0f54e-feeb-4655-8e95-6e40bff5b407" />)
+![ArcGIS Mobile Data Collection Map]<img width="148" height="320" alt="IMG_1860" src="https://github.com/user-attachments/assets/5da0f54e-feeb-4655-8e95-6e40bff5b407" />
 
 
 ## Lab Activities
