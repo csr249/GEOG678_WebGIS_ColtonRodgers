@@ -32,7 +32,7 @@ The website includes:
 
 [View Airfield Photograph](airfield.jpg)
 
-[View Resume](Lab_03/Colton S. Rodgers_Resume_2026.docx)
+[View Word Document](ColtonS.Rodgers_Resume_2026.docx)
 
 ### Completed Website Screenshot
 ![Resume Website Screenshot](resume_website_screenshot.jpg)
