@@ -27,7 +27,7 @@ This lab introduces JavaScript and JSON programming for web-based geographic app
 
 The screenshot below documents the JavaScript console output displaying the student email address and output object.
 
-![Lab 4 Console Output](Lab4_Console_Output.png)
+![Lab 4 Console Output](Lab04_Console_Output_Bounding_Box.png)
 
 ## Lab Activities
 
