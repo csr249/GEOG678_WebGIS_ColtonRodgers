@@ -43,9 +43,8 @@ The screenshot below documents the JavaScript console output displaying the stud
 ## Deliverables
 
 - HTML file containing the webpage
-- JavaScript file containing the programming logic
-- Geographic dataset in JavaScript format
+- JavaScript file
+- Geographic dataset
 - Screenshot of the console output showing the email address and output object
-- GitHub README documentation
 - Link to the Lab_04 GitHub folder submitted through Canvas
 is lab provides an introduction to JavaScript and JSON programming for web-based geographic applications. The exercises demonstrate how functions, objects, arrays, and conditional statements can be used to organize and process information. These concepts provide a foundation for developing interactive Web GIS applications.
