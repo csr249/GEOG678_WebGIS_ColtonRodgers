@@ -1,45 +1,33 @@
-# Lab 4 – JavaScript/JSON Programming
+
+# Lab 4 – JavaScript and JSON Programming
 
 **Course:** GEOG 678 – Web GIS  
 **University:** Texas A&M University
 
 ## Overview
-The purpose of this lab is to develop an understanding of JavaScript and JSON (JavaScript Object Notation) through interactive web programming. This lab introduces JavaScript functions, objects, arrays, and conditional statements while demonstrating how these concepts can be applied to geographic information.
+
+This lab introduces JavaScript and JSON programming for web-based geographic applications. The assignment involves creating an HTML webpage, linking JavaScript files, and using functions to identify geographic corner points from a dataset.
 
 ## Objectives
-- Develop interactive web pages using JavaScript.
-- Create and manipulate JSON objects.
-- Understand JavaScript functions and arrays.
-- Apply loops and conditional statements.
-- Work with geographic coordinates and bounding boxes.
-- Display program results using the browser's developer console.
 
-## JavaScript and JSON Programming
-
-This lab introduces the use of JavaScript within an HTML document. An external JavaScript file is used to define functions, create objects, and perform operations based on user interaction.
-
-### Part 1 – JavaScript Objects and Arrays
-
-The first exercise demonstrates how to create JSON-style JavaScript objects containing student information, including names, ages, and GPAs.
-
-JavaScript functions and arrays are used to organize the student records and identify the student with the lowest GPA.
-
-### Part 2 – Geographic Bounding Box
-
-The second exercise focuses on working with geographic coordinates and identifying a bounding box using JavaScript.
-
-This activity demonstrates how JavaScript can process geographic information and generate results that can be viewed through the browser's developer console.
+- Learn basic JavaScript and JSON programming.
+- Create an HTML webpage with an interactive button.
+- Link external JavaScript files to an HTML document.
+- Use functions, objects, arrays, and conditional statements.
+- Identify the four corner points of a geographic dataset.
+- Display the results in the browser console.
 
 ## Lab Files
 
-- **HTML File:**
-- **JavaScript File:** 
+- **HTML File:** [index.html](index.html)
+- **JavaScript File:** [script.js](script.js)
+- **Data File:** [data.js](data.js)
 
 ## Console Output
 
-The screenshot below documents the JavaScript console output displaying the required email address and output object.
+The screenshot below documents the JavaScript console output displaying the student email address and output object.
 
-
+![Lab 4 Console Output](Lab4_Console_Output.png)
 
 ## Lab Activities
 
@@ -50,16 +38,14 @@ The screenshot below documents the JavaScript console output displaying the requ
 5. Worked with geographic bounding box information.
 6. Tested the JavaScript code using the browser's developer console.
 7. Captured a screenshot of the required console output.
-8. Uploaded the HTML, JavaScript, and screenshot files to GitHub.
+8. Uploaded the HTML, JavaScript, data, and screenshot files to GitHub.
 
 ## Deliverables
 
-- HTML file containing the web page
+- HTML file containing the webpage
 - JavaScript file containing the programming logic
+- Geographic dataset in JavaScript format
 - Screenshot of the console output showing the email address and output object
 - GitHub README documentation
 - Link to the Lab_04 GitHub folder submitted through Canvas
-
-## Conclusion
-
-This lab provides an introduction to JavaScript and JSON programming for web-based geographic applications. The exercises demonstrate how functions, objects, arrays, and conditional statements can be used to organize and process information. These concepts provide a foundation for developing interactive Web GIS applications.
+is lab provides an introduction to JavaScript and JSON programming for web-based geographic applications. The exercises demonstrate how functions, objects, arrays, and conditional statements can be used to organize and process information. These concepts provide a foundation for developing interactive Web GIS applications.
