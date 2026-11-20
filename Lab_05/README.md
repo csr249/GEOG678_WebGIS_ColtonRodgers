@@ -39,7 +39,7 @@ This tutorial demonstrates how to create a mobile-friendly, full-screen Leaflet 
 
 The map uses the `map.locate()` function to attempt to identify the user's geographic location. Location success and error event handlers were implemented.
 
-Because browser geolocation access was unavailable during testing, a fallback function was included to center the map on Kyle Field at Texas A&M University.
+Browser geolocation access was unavailable during testing (computer admin rights on current computer), a fallback function was included to center the map on Kyle Field at Texas A&M University.
 
 **HTML File:**
 
