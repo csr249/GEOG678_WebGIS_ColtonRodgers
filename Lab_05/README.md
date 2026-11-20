@@ -1,6 +1,7 @@
-# Lab 5 – Basic JavaScript Mapping with Leaflet
 
-**Course:** GEOG 678 – Web GIS  
+# Lab 5 - Basic JavaScript Mapping with Leaflet
+
+**Course:** GEOG 678 - Web GIS  
 **University:** Texas A&M University
 
 ## Overview
@@ -16,75 +17,87 @@ The purpose of this lab is to develop interactive web mapping applications using
 - Display geographic coordinates through interactive map functions.
 - Document and organize web mapping applications using GitHub.
 
-## Leaflet Mapping Tutorials
+## Leaflet Tutorials
 
 Three introductory Leaflet tutorials were completed to demonstrate basic web mapping functionality.
 
-### Tutorial 1 – Setting Up a Leaflet Map
+### Tutorial 1 - Leaflet Quick Start Guide
 
-This tutorial introduces the process of creating a Leaflet web map, defining the initial map extent, and displaying a basemap.
+Created an interactive OpenStreetMap map centered on London. Added a marker, circle, and polygon with popups, along with a map click event that displays geographic coordinates.
 
-**HTML File:** 
+**HTML File:**
 
+[Tutorial 1](Tutorial_1_Quick_Start.html)
 
+**Screenshot:**
 
-### Tutorial 2 – Markers, Polylines, and Popups
+![Tutorial 1](Tutorial_1_Quick_Start.png)
 
-This tutorial demonstrates how to add geographic features to a Leaflet map, including markers, polylines, and interactive popups.
+### Tutorial 2 - Leaflet on Mobile
 
-**HTML File:** 
+This tutorial demonstrates how to create a mobile-friendly, full-screen Leaflet map using browser geolocation.
 
+The map uses the `map.locate()` function to attempt to identify the user's geographic location. Location success and error event handlers were implemented.
 
+Because browser geolocation access was unavailable during testing, a fallback function was included to center the map on Kyle Field at Texas A&M University.
 
-### Tutorial 3 – Map Events
+**HTML File:**
 
-This tutorial introduces event handling in Leaflet, allowing the map to respond to user interactions such as clicking geographic locations.
+[Tutorial 2](Tutorial_2_Leaflet_Mobile.html)
 
-**HTML File:** 
+**Geolocation Failure Screenshot:**
 
+![Tutorial 2](Tutorial_2_Geolocation_Failure.png)
 
+**Kyle Field Fallback Screenshot:**
+
+![Tutorial 2](Tutorial_2_Leaflet_Mobile_Kyle_Field.png)
+
+### Tutorial 3 - Markers with Custom Icons
+
+This tutorial introduces the creation of customized map markers using Leaflet.
+
+**HTML File:**
+
+[Tutorial 3](Tutorial_3_Markers_With_Custom_Icons.html)
+
+**Screenshot:**
+
+![Tutorial 3](Tutorial_3_Custom_Icons.png)
 
 ## Custom Leaflet Web Map
 
-The final exercise involves developing a custom interactive web map that combines the concepts introduced in the three tutorials.
+The final assignment involves developing a custom interactive web map that combines the concepts introduced in the three Leaflet tutorials.
 
-**HTML File:** 
+The custom map displays locations on the Texas A&M University campus, including Kyle Field, the O&M Building, and the Academic Building.
+
+**HTML File:**
+
+[Custom Leaflet Web Map](CSR_Custom_Map.html)
 
 ### Custom Map Features
 
 The custom web map incorporates the following functionality:
 
-1. **Location Function:** Allows the map to identify or navigate to a geographic location.
-2. **Circle with Popup:** Displays a circular geographic feature with an associated popup.
-3. **Custom Icons with Popups:** Uses customized map markers that display information when selected.
+1. **Location Function:** Allows the map to identify or navigate to a geographic location. If location access is unavailable (due to security reasons with admin rights on current computer), the map centers on Kyle Field.
+
+2. **Circle with Pop-up:** Displays a circular feature around Kyle Field with an associated popup.
+
+3. **Custom Icons with Popups:** Uses customized markers to display information for the O&M Building and Academic Building when selected.
+
 4. **Coordinate Display Event:** Displays geographic coordinates in a popup when the user interacts with the map.
 
-### Custom Web Map Screenshot
+### Custom Map Screenshot
 
-The screenshot below documents the completed custom Leaflet web map.
+![Custom Leaflet Web Map](CSR_Custom_Map.png)
 
+## Technologies Used
 
-
-## Lab Activities
-
-1. Reviewed the introductory Leaflet mapping tutorials.
-2. Created a basic interactive Leaflet web map.
-3. Added markers, polylines, and popups.
-4. Implemented interactive map events.
-5. Developed a custom Leaflet web map.
-6. Added the required custom mapping functions.
-7. Captured screenshots of the three tutorials and custom map.
-8. Uploaded the HTML files, screenshots, and documentation to GitHub.
-
-## Deliverables
-
-- Three HTML files from the Leaflet tutorials
-- One custom Leaflet web map HTML file
-- Three screenshots documenting tutorial completion
-- One screenshot of the custom web map
-- GitHub README documentation
-- Link to the Lab_05 GitHub folder submitted through Canvas
-
-## Conclusion
-
-This lab provides practical experience developing interactive web maps using JavaScript and Leaflet. The exercises demonstrate how geographic features, popups, and event handlers can be combined to create functional web mapping applications. These skills provide a foundation for developing more advanced Web GIS applications.
+- HTML5
+- CSS
+- JavaScript
+- Leaflet 1.9.4
+- OpenStreetMap
+- Visual Studio Code
+- Live Server
+- GitHub
